@@ -7,10 +7,9 @@
  * Author: Rafael Matos
  * Author URI: https://github.com/rafaelmatostj
  * Version: 0.0.0
- * License: GNU General Public License v3.0
+ * License: GNU General Public License v3.0*
  *
- * @package Pix_For_WooCommerce
  */
 
-defined('ABSPATH') or exit;
+
 
