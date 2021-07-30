@@ -1,11 +1,6 @@
 <?php
 
-/**
- * HTML email instructions.
- *
- * @package Pix_For_WooCommerce
- * @version 0.0.0
- */
+
 
 if (!defined('ABSPATH')) {
 	exit; 
